@@ -61,11 +61,4 @@ Perfect for showcasing modern frontend, animation, and 3D integration skills in 
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
-> Designed & developed by [Vaibhav Singh](https://github.com/VaibhavDA893) — inspired by creative commerce and modern 3D web design.
 
